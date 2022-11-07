@@ -1,11 +1,15 @@
 {
     "entries": {
         "Shelter of the Faithful": {
-            "name": ""
+            "name": "Zufluchtsort der Gläubigen",
+            "description": "<p>Als Tempeldiener bist du in der Lage, die Zeremonien deiner Gottheit ausf&uuml;hren, und dir geb&uuml;hrt der Respekt derer, die deinen Glauben teilen.</p>\n<p>Du und deine Abenteurergruppe k&ouml;nnen an jedem Tempel, Schrein oder einer anderen St&auml;tte deines Glaubens kostenlose Heilung und F&uuml;rsorge erhalten, auch wenn ihr die Komponenten, die f&uuml;r die Zauber ben&ouml;tigt werden, selbst bereitstellen m&uuml;sst. Jene, die deine Religion aus&uuml;ben, werden dir, und nur dir, zu einem einfachen Lebensstil verhelfen, wenn du kein Auskommen haben solltest.</p>\n<p>Du k&ouml;nntest au&szlig;erdem Verbindungen zu einem bestimmten Tempel pflegen, der deiner Gottheit oder deinem Pantheon geweiht ist. Vielleicht unterh&auml;ltst du dort auch einen Wohnsitz. Dies k&ouml;nnte ein Tempel sein, in dem du einst dientest, falls du dich im Guten getrennt hast, oder ein Tempel, in dem du ein neues Zuhause fandest.</p>\n<p>Solange du in der N&auml;he deines Tempels bist, kannst du die Priester rufen, um dich zu unterst&uuml;tzen, gesetzt dem Fall, dass die Hilfe, die du erbittest, sie nicht in Gefahr bringt und du in einem guten Verh&auml;ltnis zu deinem Tempel stehst.</p>",
+            "src": "SHB S. 137"
         },
         "Acolyte": {
-            "name": ""
+            "name": "Tempeldiener",
+            "description": "<p>Du hast dein Leben im Dienste eines Tempels einer bestimmten Gottheit oder eines Pantheons von G&ouml;ttern verbracht. Als Mittler zwischen dem Reich des Heiligen und der sterblichen Welt f&uuml;hrst du Rituale aus und bringst Opfer dar, um Gl&auml;ubige mit der Pr&auml;senz des G&ouml;ttlichen zu verbinden. Du bist nicht zwangsl&auml;ufig ein Kleriker, heilige Rituale abzuhalten ist nicht das Gleiche wie das Fokussieren g&ouml;ttlicher Macht.</p>\n<p>W&auml;hle eine Gottheit, ein Pantheon von G&ouml;ttern oder eine andere fast g&ouml;ttliche Wesenheit aus jenen, die in Anhang B &ldquo;G&ouml;tter des Multiversums&rdquo; (SHB S. 293) aufgef&uuml;hrt sind oder die dein Spielleiter dir f&uuml;r die Kampagne vorgibt. Arbeite gemeinsam mit ihm die Art und Weise deines religi&ouml;sen Dienstes aus.</p>\n<p>Warst du ein unbedeutender Tempeldiener, der seit seiner fr&uuml;hesten Kindheit von Priestern ausgebildet wurde, ums sie bei Ritualen zu unterst&uuml;tzen? Oder warst du ein Hohepriester, der pl&ouml;tzliche den Ruf erhielt, seinem Gott auf andere Art zu dienen?</p>\n<p>Vielleicht hast du auch einen kleinen Kult au&szlig;erhalb der eingesessenen Tempelstrukturen angef&uuml;hrt oder sogar eine okkulte Gruppe, die einen teuflischen Meister verehrte, was du jetzt verleugnest.</p>\n<p><strong>Ge&uuml;bt in folgenden F&auml;higkeiten</strong>: Motiv erkennen, Religion</p>\n<p><strong>Sprachen</strong>: zwei deiner Wahl</p>\n<p><strong>Merkmal</strong>: Zufluchtsort der Gl&auml;ubigen</p>\n<p><strong>Ausr&uuml;stung</strong>:</p><ul><li>ein heiliges Symbol</li><li><em>(a)</em> ein @Compendium[dnd5e.items.odV5cq2HSLSCH69k]{Gebetsbuch} oder <em>(b)</em> eine @Compendium[dnd5e.items.Nd4r4hocpfu6fYDP]{Gebetsm&uuml;hle}</li><li>5 @Compendium[dnd5e.items.3b0RvGi0TnTYpIxn]{R&auml;ucherst&auml;bchen}</li><li>ein Satz @Compendium[dnd5e.items.8RXjiddJ6VGyE7vB]{gew&ouml;hnlicher Kleidung}</li><li>eine @Compendium[dnd5e.items.8GCEodUsTEEpBlO6]{Robe}</li><li>eine B&ouml;rse mit 15 GM</li></ul>",
+            "src": "SHB S. 137"
         }
     },
-    "label": "Hintergründe"
+    "label": "Hintergründe (SRD)"
 }

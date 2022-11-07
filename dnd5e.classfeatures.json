@@ -301,8 +301,8 @@
             "source": "SHB S. 106"
         },
         "Evocation Savant": {
-            "name": "Gelehrter der Bannmagie",
-            "description": "<p>Beginnend mit der Wahl dieser Schule auf der 2. Stufe werden die Geldkosten und der Zeitaufwand für das Kopieren von Bannzaubern in dein Zauberbuch halbiert.</p>",
+            "name": "Gelehrter der Hervorrufung",
+            "description": "<p>Beginnend mit der Wahl dieser Schule auf der 2. Stufe werden die Geldkosten und der Zeitaufwand für das Kopieren von Hervorrufungszauber in dein Zauberbuch halbiert.</p>",
             "source": "SHB S. 86"
         },
         "Expanded Spell List": {
@@ -390,7 +390,7 @@
             "description": "<p>Führt eine Kreatur, die du sehen kannst, einen Angriff auf eine bis zu 1,50 m von dir entfernt stehende Kreatur aus (die nicht du selbst bist), kannst du deine Reaktion verwenden, damit der Angreifer bei seinem Wurf im Nachteil ist. Du musst dafür einen Schild tragen.</p>",
             "source": "SHB S. 71"
         },
-        "Fighting Style: Two Weapon Fighting": {
+        "Fighting Style: Two-Weapon Fighting": {
             "name": "Kampfstil: Kampf mit zwei Waffen",
             "description": "<p>Wenn du mit zwei Waffen angreifst, kannst du den passenden Attributsmodifikator zum Schaden der zweiten Waffe addieren.</p>",
             "source": "SHB S. 71"
@@ -555,7 +555,7 @@
             "description": "<p>Du kannst mit deiner Aktion eine humanoide Kreatur berühren, die dazu gewillt ist, um durch ihre Sinne bis zum Ende deines nächsten Zuges die Umwelt wahrzunehmen. Solange sich die Kreatur auf derselben Existenzebene befindet wie du selbst, kannst du deine Aktion in den folgenden Zügen verwenden, um diese Verbindung aufrechtzuerhalten und die Dauer bis zum Ende deines jeweils nächsten Zuges zu verlängern. Während du mit den Sinnen der anderen Kreatur wahrnimmst, besitzt du all ihre speziellen Sinne, bist aber blind und taub für deine eigene Umgebung.</p>",
             "source": "SHB S. 67"
         },
-        "Invocation: Life Drinker": {
+        "Invocation: Lifedrinker": {
             "name": "Anrufung: Lebenstrinker",
             "description": "<p>Triffst du mit deiner Paktwaffe eine Kreatur, erleidet diese nekrotischen Schaden in Höhe deines Charismamodifikators (mindestens 1).</p>",
             "source": "SHB S. 68"
@@ -590,7 +590,7 @@
             "description": "<p>Wenn du dich in einem Bereich mit dämmrigem Licht oder Dunkelheit befindest, kannst du deine Aktion verwenden, um unsichtbar zu werden, bis du dich bewegst oder eine Aktion oder eine Reaktion ausführst.</p>",
             "source": "SHB S. 68"
         },
-        "Invocation: Otherwordly Leap": {
+        "Invocation: Otherworldly Leap": {
             "name": "Anrufung: Andersweltlicher Sprung",
             "description": "<p>Du kannst @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{Springen} nach Belieben auf dich selbst wirken, ohne dafür Zauberplätze oder Materialkomponenten aufwenden zu müssen.</p>",
             "source": "SHB S. 67"
@@ -1139,6 +1139,11 @@
             "name": "Innere Ruhe",
             "description": "<p>Von der 11. Stufe an kannst du dich in eine besondere Art der Meditation vertiefen, die dich mit einer Aura des Friedens umgibt. Am Ende einer langen Rast erhältst du die Effekte des Zauber @Compendium[dnd5e.spells.gvdA9nPuWLck4tBl]{Heiligtum}, die bis zum Anfang der nächsten langen Rast anhalten (der Zauber kann wie gewöhnlich vorzeitig beendet werden). Des Rettungswurf für den Zauber ist gleich 8 + deinem Weisheitsmodifikator + deinem Übungsbonus.</p>",
             "source": "SHB S. 94"
+        },
+        "Unarmed Strike (Monk)": {
+            "name": "Unbewaffneter Angriff (Mönch)",
+            "description": "",
+            "source": ""
         },
         "Unarmored Defense (Barbarian)": {
             "name": "Ungerüstete Verteidigung (Barbar)",
